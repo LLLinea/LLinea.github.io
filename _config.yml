@@ -9,7 +9,7 @@
 title: "Linea的临时博客"
 brief-intro: "System Research"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://LLLinea.github.io" # the base hostname & protocol for your site
+url: "https://yaoxin1994.github.io" # the base hostname & protocol for your site
 
 permalink: /:year/:month/:day/:title/
 
@@ -20,7 +20,7 @@ github_username:  LLLinea
 email: 459342406@qq.com
 weibo_username: 
 zhihu_username: 
-linkedIn_username: Linea
+linkedIn_username: 
 dribbble_username:
 
 description_footer: In Dream we trust!
